@@ -5,3 +5,7 @@ y hacemos un contador de cada uno de ellos cuando pasan un linea que hemos traza
 
 # Falta añadir la carpeta de: 
 venv y yolo-coco
+
+mirar enlace:
+
+https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
